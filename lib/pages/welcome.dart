@@ -43,10 +43,10 @@ class _WelcomeState extends State<Welcome> {
                 ),
               ]),
               SizedBox(
-                height: 10,
+                height: 11,
               ),
               Text(
-                "Welcome to our app",
+                "Welcome to to our app",
                 style: GoogleFonts.roboto(
                   fontSize: 18,
                   color: Color.fromARGB(255, 5, 59, 102),
